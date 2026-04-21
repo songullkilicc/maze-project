@@ -21,6 +21,10 @@ This project is a grid-based maze visualization tool built with Python and Pygam
 2. Run the program:
    python main.py
 
+## Notes
+This is an initial working prototype designed for incremental development.  
+Further enhancements and optimizations will be added in subsequent iterations.
+
 ## Current Status
 - GUI and grid rendering implemented
 - User input system implemented
