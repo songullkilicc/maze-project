@@ -33,6 +33,9 @@ This is an initial working prototype.
 ## Demo
 <img width="622" height="657" alt="teamproj3" src="https://github.com/user-attachments/assets/60770f02-fe32-4052-83d5-0aef71b65f9e" />
 https://github.com/user-attachments/assets/2389ccd6-d1a3-47fe-b040-5f8c12bffb78
++ after changing the main.py to new version: (Note: The animation system is implemented and ready. 
+It will be activated once the backend pathfinding algorithm provides visited_nodes data.)
+ <img width="887" height="186" alt="image" src="https://github.com/user-attachments/assets/904f3783-c139-44f4-9741-a2465620104a" />
 
 ## Author
 Songül Kılıç
