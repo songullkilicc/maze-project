@@ -4,7 +4,7 @@
 **Project Name:** Maze Visualization with Pathfinding Algorithm  
 **Start Date:** April 2026  
 **Deadline:** May 2, 2026  
-**Team:** Songül Kılıç (SK) - Frontend Developer, Bouchra Hanini - Backend Developer  
+**Team:** Songül Kılıç, Bouchra Hanini 
 **Methodology:** Agile/Scrum  
 **Status:** Sprint 2 - In Progress
 
