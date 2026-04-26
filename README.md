@@ -19,18 +19,32 @@ pip install pygame
 python main.py
 
 ## Current Status
-**Task 1 & Task 3 (Frontend) - COMPLETED:**
-✅ GUI and grid system implemented  
-✅ User interaction completed (drag-and-draw, S/E/C keys)  
-✅ Animation engine implemented with configurable speed (F/G keys)
-✅ Final path color differentiation (yellow)
-✅ Status text display on screen
 
-**Task 2 (Backend) - IN PROGRESS:**
-⏳ BFS/A* pathfinding algorithm (Bouchra)
-⏳ Path reconstruction logic (Bouchra)
+### Frontend (Songül) - COMPLETE ✅
+- Task 1: GUI & Grid Rendering ✅
+- Task 2: User Input & Interaction ✅
+- Task 3: Animation Engine ✅
 
-**Ready for:** Backend integration (expected April 28)
+### Backend (Bouchra) - IN PROGRESS ⏳
+- Task 2: Pathfinding Algorithm (BFS/A*)
+- Task 3: Path Reconstruction
+
+### Integration Status
+⏳ Waiting for backend pathfinding implementation
+📅 Expected: April 28, 2026
+🔗 Ready to integrate immediately upon completion
+
+---
+
+## How to Contribute
+
+If you're Bouchra:
+1. Implement `find_path_bfs()` in `pathfinding.py`
+2. Return format: `(visited_nodes, final_path)`
+3. Push to GitHub
+4. Notify Songül for integration
+
+Frontend is fully documented and ready!
 
 ## Future Work
 ✅ Animation engine implemented  
